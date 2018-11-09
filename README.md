@@ -1,1 +1,1 @@
-# [![Build Status](https://travis-ci.com/fromis09/f9.svg?branch=master)] (https://travis-ci.com/fromis09/f9)[![Coverage Status](https://coveralls.io/repos/github/fromis09/f9/badge.svg?branch=master)](https://coveralls.io/github/fromis09/f9?branch=master)
+# [![Build Status](https://travis-ci.com/fromis09/f9.svg?branch=master)](https://travis-ci.com/fromis09/f9) [![Coverage Status](https://coveralls.io/repos/github/fromis09/f9/badge.svg?branch=master)](https://coveralls.io/github/fromis09/f9?branch=master)
